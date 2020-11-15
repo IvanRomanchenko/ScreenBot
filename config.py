@@ -1,3 +1,0 @@
-""" Add your token (write BotFather '/newbot'[ to get it)"""
-
-token = ...

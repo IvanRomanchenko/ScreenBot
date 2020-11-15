@@ -1,6 +1,6 @@
 # ScreenBot
-Telegram bot that takes the address of the page and returns its screen
+Telegram bot that takes the URL of the page and returns its screenshot.
 
 
-Write BotFather '/newbot' to get token.
-Add your token to config.py.
+@fullscreen_bot - bot name.
+You can find it on the telegram to assess its capabilities.
